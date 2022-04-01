@@ -1,0 +1,11 @@
+@import "./src/_setting.scss";
+
+$appbar-bg-color: #ffccff;
+
+.narbar-app {
+  padding-left: 10px;
+  display: flex;
+  align-items: center;
+  background-color: $appbar-bg-color;
+  font-size: 1.5rem;
+}
